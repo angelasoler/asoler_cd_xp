@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: playground
-        image: angelasol/my-simple-app:1.0.0
+        image: angelasol/my-simple-app:2.0.0
         ports:
         - containerPort: 8888
 ---
